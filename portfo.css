@@ -80,6 +80,7 @@ nav .fa-solid {
     font-size: 30px;
 }
 .header_text p span{
+    font-weight: bold;
     color: #0ef;
 }
 
